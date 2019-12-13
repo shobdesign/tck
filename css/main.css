@@ -1,0 +1,27 @@
+.section {
+    padding: 20% 0;
+}
+
+.bg-black { 
+    background-color: black;
+}
+
+.bg-black h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    color: white;
+}
+
+.bg-black p{ 
+    color: #566573;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.btn-light {
+    background-color: lightgrey; 
+}
+
+.btn-outline-light {
+    border-color: darkturquoise; 
+}
