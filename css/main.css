@@ -17,7 +17,10 @@
 
 .img {
     margin: auto
-    align: center;
+}
+
+.row .rhom {
+    margin: auto;
 }
 
 .col {
@@ -26,6 +29,7 @@ margin: auto;
 
 .col2 {
     margin: auto;
+    text-align: center;
 }
 
 .home {
@@ -35,7 +39,7 @@ margin: auto;
 
 .TCK {
   margin: auto;
-  width: 80%;
+  width: 100%;
 }
 
 .home h1 {
@@ -64,7 +68,7 @@ margin: auto;
 
 .imgsto {
     margin: auto;
-    width: 65%;
+    width: 100%;
 }
 
 .bg-grey p0 {
@@ -298,4 +302,14 @@ margin: auto;
 .imgcre {
     width: 100%;
     margin-top: 20%;
+}
+
+
+.bg-white p6 {
+    color: #566573;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 130%;
+    text-align: center;
+    margin: auto;
 }
