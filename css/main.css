@@ -1,27 +1,301 @@
 .section {
-    padding: 20% 0;
+    padding: 5% 15%;
 }
 
-.bg-black { 
-    background-color: black;
-}
-
-.bg-black h1 {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 800;
-    color: white;
-}
-
-.bg-black p{ 
-    color: #566573;
-    font-family: 'Open Sans', sans-serif;
+.navbar {
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
     font-weight: 400;
+    font-size: auto;  
 }
 
-.btn-light {
-    background-color: lightgrey; 
+.btn {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: auto; 
 }
 
-.btn-outline-light {
-    border-color: darkturquoise; 
+.img {
+    margin: auto
+    align: center;
+}
+
+.col {
+margin: auto;
+}
+
+.col2 {
+    margin: auto;
+}
+
+.home {
+    background-color: white;
+    color: black;
+} 
+
+.TCK {
+  margin: auto;
+  width: 80%;
+}
+
+.home h1 {
+    font-family: 'Bigshot One', cursive;
+    color: black;
+    font-size: 400%;
+    text-align: center;
+    margin: auto;
+}
+
+.home p{ 
+    color: #566573;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 150%;
+    text-align: center;
+    margin-bottom: 5%
+}
+
+
+
+.bg-grey { 
+    background-color: #F0F0F1;
+    margin: auto;
+}
+
+.imgsto {
+    margin: auto;
+    width: 65%;
+}
+
+.bg-grey p0 {
+    color: #566573;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 120%;
+    text-align: center;
+    margin: auto;
+}
+
+.bg-grey h3 {
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 120%;
+    text-align: left;
+    margin-bottom: 10%;
+    margin-left: -10%;
+}
+
+
+.bg-grey .Tim {
+    margin: auto;
+}
+
+.bg-grey h1 {
+    font-family: 'Bigshot One', cursive;
+    color: black;
+    text-align: left;
+    margin: auto;
+    font-size: auto;
+} 
+
+.bg-grey p1 { 
+    color: black;
+    margin: auto;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 120%;
+}
+
+.MapTim {
+  margin: auto;
+  width: auto;
+}
+
+.bg-grey p2 { 
+    color: black;
+    margin: auto;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 125%;  
+}
+
+.bg-grey h4 {
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 110%;
+    text-align: left;
+    margin-bottom: 10%;
+    margin-left: -10%;
+}
+
+.bg-grey .casey {
+    margin: auto;
+}
+
+.bg-white .Mapcasey {
+    height: auto;
+    margin: auto;
+}
+
+.bg-grey .keira {
+    margin: auto;
+}
+
+.bg-grey .mapkeira {
+    margin: auto;
+}
+
+
+.bg-white { 
+    background-color: white;
+}
+
+#Learn h4 {
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 120%;
+    text-align: left;
+    margin-bottom: 10%;
+    margin-left: -10%;
+}
+
+.bg-white h2 {
+    font-family: 'Bigshot One', cursive;
+    color: black;
+    text-align: left;
+    font-size: 500%;
+    margin: auto;
+}
+
+.bg-white p0 {
+    color: #566573;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 110%;
+    text-align: center;
+    margin: auto;
+    padding-top: 10%;
+}
+
+.bg-white p1{
+    margin: auto;
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    font-size: 110%;
+}
+
+.bg-white p2{
+    margin: auto;
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: auto;
+}
+
+.bg-white h1 {
+    font-family: 'Bigshot One', cursive;
+    color: black;
+    font-size: 290%;
+    text-align: left;
+    margin: auto;
+}
+
+.bg-white h4 {
+    font-family: 'Bigshot One', cursive;
+    color: black;
+    text-align: left;
+    font-size: 160%;
+    margin: auto;
+}
+
+.home h4 {
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 120%;
+    text-align: left;
+    margin-bottom: 10%;
+    margin-left: -10%;
+}
+
+.imgsha {
+    margin: auto;
+    width: 60%;
+}
+
+.bg-white p4 {
+    color: #566573;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 130%;
+    text-align: center;
+    margin: auto;
+    padding-top: 5%;
+    margin-bottom: 10%;
+}
+
+.imgmos {
+    margin: auto;
+    width: 90%;
+    padding: 10%;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.bg-white p5 {
+    color: #566573;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 100%;
+    text-align: center;
+    margin: auto;
+}
+
+.bg-white h5 {
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    font-size: 130%;
+    text-align: left;
+    margin: auto;
+}
+
+.bg-white h6 {
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 110%;
+    text-align: left;
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+
+.picker {
+    margin:auto;
+    height: 60%;
+}
+
+.bcrea {
+    margin:auto;
+}
+
+.bcrt {
+    margin: auto;
+    padding: 100;
+    font-size: 120%;
+}
+
+.lala {
+    margin-bottom: auto;
+    margin-left: auto;
+}
+
+.imgcre {
+    width: 100%;
+    margin-top: 20%;
 }
