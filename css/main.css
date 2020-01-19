@@ -95,6 +95,7 @@ text-align: center;
 
 .bg-grey .Tim {
     margin: auto;
+    width: 100%;
 }
 
 .bg-grey h1 {
@@ -115,7 +116,7 @@ text-align: center;
 
 .MapTim {
   margin: auto;
-  width: auto;
+  width: 100%;
 }
 
 .bg-grey p2 { 
@@ -138,19 +139,22 @@ text-align: center;
 
 .bg-grey .casey {
     margin: auto;
+    width: 100%;
 }
 
 .bg-white .Mapcasey {
     height: auto;
-    margin: auto;
+    width: 100%;
 }
 
 .bg-grey .keira {
     margin: auto;
+    width: 100%;
 }
 
 .bg-grey .mapkeira {
     margin: auto;
+    width: 100%;
 }
 
 
