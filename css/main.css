@@ -83,7 +83,7 @@ text-align: center;
 }
 
 .bg-grey h3 {
-    color: black;
+    color: #566573;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 400;
     font-size: 120%;
@@ -127,7 +127,7 @@ text-align: center;
 }
 
 .bg-grey h4 {
-    color: black;
+    color: #566573;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 200;
     font-size: 110%;
@@ -159,7 +159,7 @@ text-align: center;
 }
 
 #Learn h4 {
-    color: black;
+    color: #566573;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 400;
     font-size: 120%;
@@ -230,7 +230,7 @@ text-align: center;
 
 .imgsha {
     margin: auto;
-    width: 60%;
+    width: 90%;
 }
 
 .bg-white p4 {
@@ -306,7 +306,15 @@ text-align: center;
     margin-top: 20%;
 }
 
-
+.bg-white h7 {
+    color: #566573;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+    font-size: 110%;
+    text-align: left;
+    margin-bottom: 10%;
+    margin-left: -10%;
+}
 .bg-white p6 {
     color: #566573;
     font-family: 'Source Sans Pro', sans-serif;
