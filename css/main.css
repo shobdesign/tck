@@ -106,27 +106,57 @@ text-align: center;
     font-size: auto;
 } 
 
-.Tim 1 p{
+.Tim1 p{
     color: black;
     margin: auto;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
     font-size: 120%;
 } 
- 
-  
 
-.MapTim {
-  margin: auto;
-  width: 100%;
-}
-
-.bg-grey p2 { 
+.Tim2 p{
     color: black;
     margin: auto;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 400;
     font-size: 125%;  
+}
+
+.Casey1 p{
+    color: black;
+    margin: auto;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 120%;
+} 
+
+.Casey2 p{
+    color: black;
+    margin: auto;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 125%;  
+}
+
+.Keira1 p{
+    color: black;
+    margin: auto;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 120%;
+}
+ 
+.Keira2 p{
+    color: black;
+    margin: auto;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 125%;  
+}  
+
+.MapTim {
+  margin: auto;
+  width: 100%;
 }
 
 .bg-grey h4 {
@@ -192,7 +222,7 @@ text-align: center;
     padding-top: 10%;
 }
 
-.bg-white p1{
+.Learn p{
     margin: auto;
     color: black;
     font-family: 'Source Sans Pro', sans-serif;
@@ -200,7 +230,24 @@ text-align: center;
     font-size: 110%;
 }
 
-.bg-white p2{
+.Learn2 p{
+    margin: auto;
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    font-size: 110%;
+}
+
+
+.Learn3 p{
+    margin: auto;
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: auto;
+}
+
+.Learn4 p{
     margin: auto;
     color: black;
     font-family: 'Source Sans Pro', sans-serif;
@@ -239,7 +286,7 @@ text-align: center;
     width: 90%;
 }
 
-.bg-white p4 {
+.share p {
     color: #566573;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
@@ -259,7 +306,7 @@ text-align: center;
     text-align: center;
 }
 
-.bg-white p5 {
+.mosaic p {
     color: #566573;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
@@ -321,7 +368,7 @@ text-align: center;
     margin-bottom: 10%;
     margin-left: -10%;
 }
-.bg-white p6 {
+.unavailable p {
     color: #566573;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
