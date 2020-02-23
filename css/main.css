@@ -28,6 +28,10 @@ margin: auto;
 text-align: left;
 }
 
+.p {
+    text-align: left;
+}
+
 .col1 {
 margin: auto;
 text-align: center;
