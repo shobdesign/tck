@@ -28,14 +28,11 @@ margin: auto;
 text-align: left;
 }
 
-.p {
-    text-align: left;
-}
-
 .col1 {
 margin: auto;
 text-align: center;
 }
+
 
 .home {
     background-color: white;
@@ -64,10 +61,11 @@ text-align: center;
     margin-bottom: 5%
 }
 
+
+
 .bg-grey { 
     background-color: #F0F0F1;
     margin: auto;
-    text-align: left;
 }
 
 .imgsto {
@@ -75,12 +73,12 @@ text-align: center;
     width: 100%;
 }
 
-.bg-grey p {
+.bg-grey p0 {
     color: #566573;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
     font-size: 120%;
-    text-align: left;
+    text-align: center;
     margin: auto;
 }
 
@@ -108,63 +106,25 @@ text-align: center;
     font-size: auto;
 } 
 
-.Tim1 p {
+.bg-grey p1 { 
     color: black;
     margin: auto;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
     font-size: 120%;
-    text-align:left;
-} 
-
-.Tim2 p {
-    color: black;
-    margin: auto;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 400;
-    font-size: 125%;
-    text-align:left;
 }
-
-.Casey1 p {
-    color: black;
-    margin: auto;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 300;
-    font-size: 120%;
-    text-align:left;
-} 
-
-.Casey2 p {
-    color: black;
-    margin: auto;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 400;
-    font-size: 125%;
-    text-align:left;
-}
-
-.Keira1 p {
-    color: black;
-    margin: auto;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 300;
-    font-size: 120%;
-    text-align:left;
-}
- 
-.Keira2 p {
-    color: black;
-    margin: auto;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 400;
-    font-size: 125%;
-    text-align:left;
-}  
 
 .MapTim {
   margin: auto;
   width: 100%;
+}
+
+.bg-grey p2 { 
+    color: black;
+    margin: auto;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    font-size: 125%;  
 }
 
 .bg-grey h4 {
@@ -220,7 +180,7 @@ text-align: center;
     margin: auto;
 }
 
-.bg-white p {
+.bg-white p0 {
     color: #566573;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
@@ -230,7 +190,7 @@ text-align: center;
     padding-top: 10%;
 }
 
-.Learn p{
+.bg-white p1{
     margin: auto;
     color: black;
     font-family: 'Source Sans Pro', sans-serif;
@@ -238,24 +198,7 @@ text-align: center;
     font-size: 110%;
 }
 
-.Learn2 p{
-    margin: auto;
-    color: black;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 600;
-    font-size: 110%;
-}
-
-
-.Learn3 p{
-    margin: auto;
-    color: black;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 400;
-    font-size: auto;
-}
-
-.Learn4 p{
+.bg-white p2{
     margin: auto;
     color: black;
     font-family: 'Source Sans Pro', sans-serif;
@@ -294,7 +237,7 @@ text-align: center;
     width: 90%;
 }
 
-.share p {
+.bg-white p4 {
     color: #566573;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
@@ -314,7 +257,7 @@ text-align: center;
     text-align: center;
 }
 
-.mosaic p {
+.bg-white p5 {
     color: #566573;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
@@ -376,7 +319,7 @@ text-align: center;
     margin-bottom: 10%;
     margin-left: -10%;
 }
-.unavailable p {
+.bg-white p6 {
     color: #566573;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
