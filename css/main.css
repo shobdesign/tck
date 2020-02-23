@@ -33,7 +33,6 @@ margin: auto;
 text-align: center;
 }
 
-
 .home {
     background-color: white;
     color: black;
@@ -60,8 +59,6 @@ text-align: center;
     text-align: center;
     margin-bottom: 5%
 }
-
-
 
 .bg-grey { 
     background-color: #F0F0F1;
@@ -106,52 +103,58 @@ text-align: center;
     font-size: auto;
 } 
 
-.Tim1 p{
+.Tim1 p {
     color: black;
     margin: auto;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
     font-size: 120%;
+    text-align:left;
 } 
 
-.Tim2 p{
+.Tim2 p {
     color: black;
     margin: auto;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 400;
-    font-size: 125%;  
+    font-size: 125%;
+    text-align:left;
 }
 
-.Casey1 p{
+.Casey1 p {
     color: black;
     margin: auto;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
     font-size: 120%;
+    text-align:left;
 } 
 
-.Casey2 p{
+.Casey2 p {
     color: black;
     margin: auto;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 400;
-    font-size: 125%;  
+    font-size: 125%;
+    text-align:left;
 }
 
-.Keira1 p{
+.Keira1 p {
     color: black;
     margin: auto;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
     font-size: 120%;
+    text-align:left;
 }
  
-.Keira2 p{
+.Keira2 p {
     color: black;
     margin: auto;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 400;
-    font-size: 125%;  
+    font-size: 125%;
+    text-align:left;
 }  
 
 .MapTim {
